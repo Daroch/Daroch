@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi 👋, I'm Daroch
 
+Passionate about learning new things! 🌱 
+
+- 🌱 I’m currently learning ...
 <!--
 **Daroch/Daroch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
